@@ -30,4 +30,4 @@
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/ABDULLAHRH1Abdullah_dashboard.git
+   git clone https://github.com/ABDULLAHRH1/Abdullah_dashboard.git
