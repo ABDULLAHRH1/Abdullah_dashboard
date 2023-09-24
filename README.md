@@ -1,27 +1,25 @@
+<!-- Project Screenshot -->
 <p align="center">
-  <img src="images/web5.png" alt="Project Screenshot" />
+  <img src="images/web5.png" alt="Project Screenshot" style="border: 5px solid #333; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
 </p>
 
-<h1 align="center">My Super Cool Website</h1>
+<!-- Project Title -->
+<h1 align="center" style="font-size: 48px; color: #333; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🚀 My Super Cool Website 🚀</h1>
 
-<p align="center">
-  A stunning website showcasing my HTML, CSS, and JavaScript skills with a touch of creativity.
+<!-- Project Description -->
+<p align="center" style="font-size: 24px; color: #666; font-family: 'Arial', sans-serif;">Experience a stunning showcase of HTML, CSS, and JavaScript skills infused with creativity.</p>
+
+<!-- Key Features -->
+<p align="center" style="font-size: 24px; color: #333; margin-top: 20px; font-family: 'Arial', sans-serif;">
+  ✨ Clean Design | 📱 Responsive Layout | 💫 Smooth Animations
 </p>
 
+<!-- Technologies Used -->
 <p align="center">
-  <img src="https://img.icons8.com/color/64/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Clean Design</strong> |
-  <img src="https://img.icons8.com/color/64/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Responsive Layout</strong> |
-  <img src="https://img.icons8.com/color/64/000000/checkmark--v1.png" alt="Checkmark" />
-  <strong>Smooth Animations</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" alt="HTML5" width="96" height="96" style="margin: 0 20px;" />
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" width="96" height="96" style="margin: 0 20px;" />
+  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="JavaScript" width="96" height="96" style="margin: 0 20px;" />
+  <img src="https://img.icons8.com/color/96/000000/github--v1.png" alt="GitHub" width="96" height="96" style="margin: 0 20px;" />
 </p>
 
 ## 🚀 Get Started
@@ -31,4 +29,4 @@
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/ABDULLAHRH1//HTML_CSS_JS_Template_Four.git
+   git clone https://github.com/ABDULLAHRH1/HTML_CSS_JS_Template_Four.git
